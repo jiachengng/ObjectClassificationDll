@@ -8,3 +8,13 @@ C:\Users\jiacheng\source\repos\Object Classification\obj\Debug\netcoreapp3.1\Obj
 C:\Users\jiacheng\source\repos\Object Classification\obj\Debug\netcoreapp3.1\Object Classification.csproj.CoreCompileInputs.cache
 C:\Users\jiacheng\source\repos\Object Classification\obj\Debug\netcoreapp3.1\Object Classification.dll
 C:\Users\jiacheng\source\repos\Object Classification\obj\Debug\netcoreapp3.1\Object Classification.pdb
+C:\Users\Admin\Desktop\JC\ObjectClassificationDll\ObjectClassificationDll\bin\Debug\netcoreapp3.1\Object Classification.deps.json
+C:\Users\Admin\Desktop\JC\ObjectClassificationDll\ObjectClassificationDll\bin\Debug\netcoreapp3.1\Object Classification.dll
+C:\Users\Admin\Desktop\JC\ObjectClassificationDll\ObjectClassificationDll\bin\Debug\netcoreapp3.1\Object Classification.pdb
+C:\Users\Admin\Desktop\JC\ObjectClassificationDll\ObjectClassificationDll\obj\Debug\netcoreapp3.1\Object Classification.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\JC\ObjectClassificationDll\ObjectClassificationDll\obj\Debug\netcoreapp3.1\Object Classification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\JC\ObjectClassificationDll\ObjectClassificationDll\obj\Debug\netcoreapp3.1\Object Classification.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\JC\ObjectClassificationDll\ObjectClassificationDll\obj\Debug\netcoreapp3.1\Object Classification.AssemblyInfo.cs
+C:\Users\Admin\Desktop\JC\ObjectClassificationDll\ObjectClassificationDll\obj\Debug\netcoreapp3.1\Object Classification.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\JC\ObjectClassificationDll\ObjectClassificationDll\obj\Debug\netcoreapp3.1\Object Classification.dll
+C:\Users\Admin\Desktop\JC\ObjectClassificationDll\ObjectClassificationDll\obj\Debug\netcoreapp3.1\Object Classification.pdb
