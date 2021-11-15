@@ -1,0 +1,10 @@
+C:\Users\jiacheng\source\repos\Object Classification\bin\Debug\netcoreapp3.1\Object Classification.deps.json
+C:\Users\jiacheng\source\repos\Object Classification\bin\Debug\netcoreapp3.1\Object Classification.dll
+C:\Users\jiacheng\source\repos\Object Classification\bin\Debug\netcoreapp3.1\Object Classification.pdb
+C:\Users\jiacheng\source\repos\Object Classification\obj\Debug\netcoreapp3.1\Object Classification.csproj.AssemblyReference.cache
+C:\Users\jiacheng\source\repos\Object Classification\obj\Debug\netcoreapp3.1\Object Classification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiacheng\source\repos\Object Classification\obj\Debug\netcoreapp3.1\Object Classification.AssemblyInfoInputs.cache
+C:\Users\jiacheng\source\repos\Object Classification\obj\Debug\netcoreapp3.1\Object Classification.AssemblyInfo.cs
+C:\Users\jiacheng\source\repos\Object Classification\obj\Debug\netcoreapp3.1\Object Classification.csproj.CoreCompileInputs.cache
+C:\Users\jiacheng\source\repos\Object Classification\obj\Debug\netcoreapp3.1\Object Classification.dll
+C:\Users\jiacheng\source\repos\Object Classification\obj\Debug\netcoreapp3.1\Object Classification.pdb
